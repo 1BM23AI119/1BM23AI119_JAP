@@ -1,0 +1,22 @@
+C:\Users\prerna\.jdks\openjdk-23.0.2\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.4.1\lib\idea_rt.jar=51669" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\yasaswini\IdeaProjects\1BM23AI119\out\production\1BM23AI119 WrapperDemo
+Autoboxing:
+Boxed Integer: 500
+Boxed Character: M
+Boxed Byte: 90
+Boxed Short: 700
+Boxed Long: 300000
+Boxed Float: 15.3
+Boxed Double: 75.9
+Boxed Boolean: true
+
+Unboxing:
+Unboxed Integer: 500
+Unboxed Character: M
+Unboxed Byte: 90
+Unboxed Short: 700
+Unboxed Long: 300000
+Unboxed Float: 15.3
+Unboxed Double: 75.9
+Unboxed Boolean: true
+
+Process finished with exit code 0
