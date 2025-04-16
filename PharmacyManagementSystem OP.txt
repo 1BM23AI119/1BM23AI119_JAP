@@ -1,0 +1,12 @@
+"C:\Program Files\Java\jdk-22\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=61395" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\Admin\Desktop\BM23AI121\out\production\BM23AI121 PharmacyManagementSystem
+Inventory:
+1 | Aspirin | Quantity: 100 | Price: 10.5
+2 | Ibuprofen | Quantity: 200 | Price: 5.75
+Inventory:
+1 | Aspirin | Quantity: 120 | Price: 11.0
+2 | Ibuprofen | Quantity: 200 | Price: 5.75
+Inventory:
+1 | Aspirin | Quantity: 120 | Price: 11.0
+Found item: Aspirin | Quantity: 120 | Price: 11.0
+
+Process finished with exit code 0
